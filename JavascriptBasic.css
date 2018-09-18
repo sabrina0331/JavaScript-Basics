@@ -1,0 +1,163 @@
+*{
+	padding: 5px;
+	margin: 5px;
+}
+#background{
+	background-color: navy;
+	height: 650px;
+	width: 970px;
+	position: absolute;
+}
+#header{
+	border-radius: 10px;
+	background-color: crimson;
+	color:paleturquoise;
+	height: 40px;
+	width: 900px;
+	margin: 10px auto;
+	padding: 10px;
+}
+#pagebody{
+	background-color: navy;
+	height:450px;
+	width: 930px;
+	padding: 15px;
+}
+
+#navigator{ 
+	border-radius: 10px;
+	background-color: teal;
+	height: 250px;
+	width: 180px;
+	display: inline-block;
+
+}
+
+#introduction{
+	border-radius: 10px;
+	background-color: black;
+	height: 400px;
+	width: 700px;
+	vertical-align: top;
+	display: inline-block;
+	
+}
+
+#footer{
+	border-radius: 10px;
+	background-color:gray;
+	height: 50px;
+	width: 900px;
+	margin: 5px 22px;
+}
+
+.headertext{
+  margin: 2px 0px;
+  font-size: 30px;
+  padding: 0.1px;
+}
+
+.home{
+	
+	font-size: 16px;
+	color: aqua;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+
+
+#overview{
+	font-size: 12px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+
+}
+
+#vd{
+	font-size: 10px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+
+#va{
+	font-size: 10px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+
+#dt{
+	font-size: 10px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+
+#conditionals{
+    font-size: 10px;
+    color: aqua;
+    padding: 2px;
+    margin: 2px 0px 2px 5px;
+    text-decoration: underline;
+}
+
+#loops{
+	font-size: 10px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+#function{
+    font-size: 10px;
+    color: aqua;
+    padding: 2px;
+    margin: 2px 0px 2px 5px;
+    text-decoration: underline;
+}
+
+.projects{
+
+	font-size: 12px;
+	color: aqua;
+	padding: 2px;
+	margin: 2px 0px 2px 5px;
+	text-decoration: underline;
+}
+
+.assignments{
+    font-size: 12px;
+    color: aqua;
+    padding: 2px;
+    margin: 2px 0px 2px 5px;
+    text-decoration: underline;
+}
+
+.quitzs{
+   font-size: 12px;
+   color: aqua;
+   padding: 2px;
+   margin: 2px 0px 2px 5px;
+   text-decoration: underline;
+}
+
+#footertext{
+	color: white;
+    font-size: 18px;
+    min-height:50px;
+	width:900px;
+	margin: 7px auto;
+	padding: 10px;
+	
+}
+#jsbasic{
+    color: white;
+    font-size:  15px;
+}
+
